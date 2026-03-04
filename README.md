@@ -1,4 +1,4 @@
-# ⚾ 야구 직관 기록 매니저 (Baseball Log Manager)
+# ⚾ 야구 직관 기록 노트 (Baseball Log Note)
 
 프론트엔드(React)와 백엔드(Spring Boot)를 활용하여 개인의 야구 직관 기록을 관리하는 풀스택 웹 애플리케이션입니다.
 
